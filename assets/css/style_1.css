@@ -1,0 +1,17 @@
+body {
+  background-image: url(../img/bg.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.principal_img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+#cacique_id {
+  height: 60rem;
+  margin-top: 100px;
+}
